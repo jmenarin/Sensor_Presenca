@@ -1,0 +1,12 @@
+;	STMicroelectronics Workspace file
+
+[Version]
+Keyword=ST7Workspace-V0.7
+
+[Project0]
+Filename=mpx-70f.stp
+Dependencies=
+[Options]
+ActiveProject=MPX-70F
+ActiveConfig=Debug
+AddSortedElements=1
